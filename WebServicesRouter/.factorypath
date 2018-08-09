@@ -3,5 +3,4 @@
     <factorypathentry kind="PLUGIN" id="com.ibm.ws.ast.wsfp.annotations.processor" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="PLUGIN" id="com.ibm.etools.webtools.jpa" enabled="true" runInBatchMode="false"/>
 	<factorypathentry kind="PLUGIN" id="com.ibm.etools.webtools.jpa" enabled="true" runInBatchMode="false"/>
-	<factorypathentry kind="PLUGIN" id="com.ibm.ws.ast.wsfp.annotations.processor" enabled="true" runInBatchMode="false"/>
 </factorypath>
